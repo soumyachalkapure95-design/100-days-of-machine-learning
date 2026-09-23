@@ -11,3 +11,4 @@ That's how I started my 100 Days Machine Learning Challenge.
 The goal isn't just to complete 100 days.
 
 The goal is to understand, revise, practice, and build.
+So I started relearning the concepts from CampusX by Nitish Singh 
